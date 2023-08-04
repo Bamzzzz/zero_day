@@ -1,1 +1,1 @@
-zero day file
+This file is mandatory in projects
